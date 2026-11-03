@@ -1,0 +1,10 @@
+{
+  "name": "رفيق المسلم",
+  "description": "تطبيق إسلامي متكامل يجمع مواقيت الصلاة الدقيقة، ورد القرآن الكريم، الأذكار اليومية، السبحة الإلكترونية، اتجاه القبلة، وسجل الإنجاز الإيماني بهوية بصرية حديثة وداعمة للغة العربية.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
